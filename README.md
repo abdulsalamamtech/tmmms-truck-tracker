@@ -36,7 +36,7 @@ This application helps to save your product from location of the sender till whe
 
 We would like to extend our thanks to the following sponsors for funding this project
 
-- **[Mr. Uthman Bello Muhammad](https://www.linkedin.com/in/)
+- **[Mr. Uthman Bello Muhammad](https://www.linkedin.com/in/uthman-bello-mohammed-20bba0104/)
 - **[Dev. Abdulsalam Abdulrahman](https://www.linkedin.com/in/abdulsalamamtech)
 
 
